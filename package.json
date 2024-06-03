@@ -1,0 +1,24 @@
+{
+  "name": "scan_e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"type": "module",
+  "scripts": {
+    "test:run": "npx playwright test",
+    "test:ui": "npx playwright test --project=chromium",
+    "report": "npx playwright show-report"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.1",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.0"
+  }
+}
