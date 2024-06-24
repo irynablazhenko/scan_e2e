@@ -1,0 +1,153 @@
+{
+  "cookies": [
+    {
+      "name": "CLID",
+      "value": "3eea1af11c0f43a6ace529f0dc65c478.20240624.20250624",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1750772854.30107,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_2522721",
+      "value": "eyJpZCI6ImJjNjIxNzIyLWY0YzUtNTUzYi1hNGEzLWMxYmJhYTZiN2Q1MiIsImNyZWF0ZWQiOjE3MTkyMzY4NTQ0MDgsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".scan.com",
+      "path": "/",
+      "expires": 1750772855,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_2522721",
+      "value": "eyJpZCI6ImU5ODFjMjA2LTg2Y2QtNGI4Zi1hNjY5LTY1YWNlNThkYmVjMiIsImMiOjE3MTkyMzY4NTQ0MTAsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".scan.com",
+      "path": "/",
+      "expires": 1719238654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "1sgy3eu%7C2%7Cfmw%7C0%7C1636",
+      "domain": ".scan.com",
+      "path": "/",
+      "expires": 1750772854,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "1360012D29296DD7081C158528A26CC0",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1752932855.788557,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1719841655.788663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "1360012D29296DD7081C158528A26CC0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1752932855.788703,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1360012D29296DD7081C158528A26CC0",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1752932855.848559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1719841655.848629,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1719237455.848665,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "18n9tzs%7C1719236855065%7C1%7C1%7Cr.clarity.ms%2Fcollect",
+      "domain": ".scan.com",
+      "path": "/",
+      "expires": 1719323255,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scan_portal_session",
+      "value": "pdz8xPSytBykbdEnXS6q%2FAoBW%2FNYeUAtmiO%2BwOnTGZhri2mPox0CnykZjkQT6BEwqxCrAstpTUy8B68Jyj1VhnYIcEdY2XL4LxgTEW7OEeN6N2fMRcjvl8sY3xvgG%2BcwIi9nAhovT0ZoeDcTxkLSBgTmgVkzT725ToEqhxMvO3LBDL8cxu1WyMDX36LSuNTZhanlKQg%2F2h5KOTDpF1X364N5XDsawYZ%2FVvEyk697veL7Kh0NjOJVfJ%2BhbAWb0dHZ%2BoAAeQm5RIiVmD0yJlxChLa95fVhXnuHVHOZh0jJMWpjr6YplMHtxlXkH4JY9NRiu8ErejkZvBcLRDBNNauqti0xWv61NKan%2FE1XZjtoP%2BVjwFtHw2QQfEE%2FvqHxUdcxruys4oU3wR6MOJR%2FzgffroW62T41ak40AdTC4dm%2FwhuUwWHvuLc%2FzYSEsRD4UkhhYuaL5jYQNtWtRO0%2B5q6bWlw4RC3EMN4LJwyz5j%2BKhENjL%2BKk3zlC5xltAHzc%2FNGBlDC5qjK1OBcbXEwLNKKijUTMaV3uk7fEKoTpJ5j3rnezSqCG8BUKbyypOBegrJlmxLYToqwkWCeu%2B8Wq06WYzrvT5qw28oPTSoE5LM53A8%2BBAx95ipX1tmWN7h00urNH--S%2FGOZwdLSSWb6Y9v--RFl9biv%2Fb8O3Pq5%2Fi5jvIA%3D%3D",
+      "domain": "portal-staging.uk.scan.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://portal-staging.uk.scan.com",
+      "localStorage": [
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "clxt18enm0000376py3upt737"
+        },
+        {
+          "name": "hjActiveViewportIds",
+          "value": "[{\"id\":\"6fb10368-b8f3-4ef0-89e0-3e17c9f3308f\",\"expireTimestamp\":1719258455945}]"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"521b57fef2f1fddc\",\"inactiveAt\":1719238654814,\"expiresAt\":1719251254623,\"updatedAt\":1719236856018,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":1,\"traceHarvestStarted\":true,\"serverTimeDiff\":702,\"custom\":{}}"
+        }
+      ]
+    }
+  ]
+}

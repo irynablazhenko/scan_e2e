@@ -3,17 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"type": "module",
+  "type": "module",
   "scripts": {
     "test:run": "npx playwright test",
-    "test:ui": "npx playwright test --project=chromium",
+    "test:ui": "npx playwright test --project=ui-tests --headed",
     "report": "npx playwright show-report"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "gapi": "^0.0.3",
+    "gmail-api-node": "^1.1.6",
+    "google-auth-library": "^9.10.0",
     "imap": "^0.8.19",
+    "js-base64": "^3.7.7",
     "mailparser": "^3.7.1",
     "uuidv4": "^6.2.13"
   },

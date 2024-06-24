@@ -4,3 +4,6 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 .env
+Trash/
+scan-426113-d524f6e9f673.json
+cookies.json
